@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-15T21:34:04 BDT" name="Default suite" finished-at="2023-11-15T21:34:42 BDT" duration-ms="37805">
+    <groups>
+    </groups>
+    <test started-at="2023-11-15T21:34:04 BDT" name="Default test" finished-at="2023-11-15T21:34:42 BDT" duration-ms="37805">
+      <class name="automationpackage.DemoClass1">
+        <test-method is-config="true" signature="init()[pri:0, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:04 BDT" name="init" finished-at="2023-11-15T21:34:17 BDT" duration-ms="12909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TestUrl()[pri:1, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:17 BDT" name="TestUrl" finished-at="2023-11-15T21:34:17 BDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestUrl -->
+        <test-method signature="TestTitle()[pri:2, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:17 BDT" name="TestTitle" finished-at="2023-11-15T21:34:17 BDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTitle -->
+        <test-method signature="TestLogin()[pri:3, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:17 BDT" name="TestLogin" finished-at="2023-11-15T21:34:20 BDT" duration-ms="3382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method signature="TestChooseItem()[pri:4, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:20 BDT" name="TestChooseItem" finished-at="2023-11-15T21:34:24 BDT" duration-ms="3239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestChooseItem -->
+        <test-method signature="AddCart()[pri:5, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:24 BDT" name="AddCart" finished-at="2023-11-15T21:34:27 BDT" duration-ms="3231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCart -->
+        <test-method signature="GotoCart()[pri:6, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:27 BDT" name="GotoCart" finished-at="2023-11-15T21:34:30 BDT" duration-ms="3231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoCart -->
+        <test-method signature="CheckOut()[pri:7, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:30 BDT" name="CheckOut" finished-at="2023-11-15T21:34:33 BDT" duration-ms="3227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOut -->
+        <test-method signature="CheckoutInfo()[pri:8, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:33 BDT" name="CheckoutInfo" finished-at="2023-11-15T21:34:36 BDT" duration-ms="3072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutInfo -->
+        <test-method signature="ContinueBtn()[pri:9, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:36 BDT" name="ContinueBtn" finished-at="2023-11-15T21:34:40 BDT" duration-ms="3223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContinueBtn -->
+        <test-method signature="FinishBtn()[pri:10, instance:automationpackage.DemoClass1@2f9f7dcf]" started-at="2023-11-15T21:34:40 BDT" name="FinishBtn" finished-at="2023-11-15T21:34:42 BDT" duration-ms="2235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinishBtn -->
+      </class> <!-- automationpackage.DemoClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
